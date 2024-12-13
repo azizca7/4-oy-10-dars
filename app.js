@@ -373,7 +373,7 @@
 // 6-misol:
 // Massivdan faqat teskari tartibda joylashtirilgan elementlarni olib yangi massivga saqlang (reverse bilan).
 
-// let arr = ["salom", "nok", "ananas", "bye"];
+// let arr = ["salom", "nok", "kiyik", "bye"];
 
 // let res = arr.filter((value) => value === value.split("").reverse().join(""));
 // console.log(res);
